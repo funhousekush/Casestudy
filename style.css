@@ -39,7 +39,7 @@ body
     width: 500px;
     margin: 50px;
 }
-.copyright
+#copyright
 {
     position: fixed;
     text-align: center;
